@@ -1,0 +1,19 @@
+{"frames": {
+
+    "YoyleBerry0000":
+    {
+        "frame": {"x":0,"y":0,"w":1179,"h":1274},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":1179,"h":1274},
+        "sourceSize": {"w":1179,"h":1274}
+    }},
+    "meta": {
+        "app": "Adobe Animate",
+        "version": "24.0.0.305",
+        "image": "YoyleBerry.png",
+        "format": "RGBA8888",
+        "size": {"w":1179,"h":1274},
+        "scale": "2"
+    }
+    }
