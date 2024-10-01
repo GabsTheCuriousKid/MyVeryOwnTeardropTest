@@ -1,0 +1,80 @@
+{
+    "costumes": {
+        "uglysweater": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "uglysweater2": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "_td_costume1": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "_td_costume2": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "_td_costume3": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "_td_costume4": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "_td_costume5": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "honeydrop": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "orangedrop": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "drippydrop": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "glassdrop": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "classic": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "golden": {
+            "price": 0.25,
+            "expiry": 1724777553571
+        },
+        "light": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "magician": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "oyuidrop": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "chocodrop": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "pineapple": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        },
+        "mintdrop": {
+            "price": 0.5,
+            "expiry": 1724777553571
+        }
+    }
+}
