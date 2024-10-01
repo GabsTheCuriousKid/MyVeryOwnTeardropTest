@@ -1,2 +1,2 @@
 # myveryownteardropTest
-this is a test. unlikely to work.
+this is the opensource of myteardrop version 1.2.2
