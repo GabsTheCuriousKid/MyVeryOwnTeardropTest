@@ -1,6 +1,6 @@
 {"frames": {
 
-    "YoyleBerry0000":
+    "yoyleBerry0000":
     {
         "frame": {"x":0,"y":0,"w":1179,"h":1274},
         "rotated": false,
@@ -11,7 +11,7 @@
     "meta": {
         "app": "Adobe Animate",
         "version": "24.0.0.305",
-        "image": "YoyleBerry.png",
+        "image": "yoyleBerry.png",
         "format": "RGBA8888",
         "size": {"w":1179,"h":1274},
         "scale": "2"
